@@ -9,7 +9,7 @@ Instructor: Dr. G. V. V. Sharma (https://github.com/gadepall)
 
 
 -Assignment 1
-  - 18 August 2022
+  - 20 August 2022
   - [Oppenheim Problem 3.12.c](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf#page=130)
   
 - Assignment_2
