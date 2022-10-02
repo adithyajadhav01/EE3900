@@ -9,7 +9,7 @@ Instructor: Dr. G. V. V. Sharma (https://github.com/gadepall)
 
 
 # Sound Assignment (Filters)
-30 August 2022
+- 30 August 2022
 
 ### Practice Questions
   
