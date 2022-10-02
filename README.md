@@ -8,13 +8,16 @@ Roll number: BM20BTECH11009
 Instructor: Dr. G. V. V. Sharma (https://github.com/gadepall)
 
 
-- Assignment_1 of Filter
-  - 20 August 2022
-  - [Oppenheim Problem 3.12.c](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf#page=130)
+# Sound Assignment (Filters)
+ - 30 August 2022
   
-- Assignment_2 of Filter
-  - 20 September 2022
-  - [Oppenheim Problem 2.21.c](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf#page=76)
+  - Assignment_1 of Filter
+    - 20 August 2022
+    - [Oppenheim Problem 3.12.c](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf#page=130)
+   
+  - Assignment_2 of Filter
+    - 20 September 2022
+    - [Oppenheim Problem 2.21.c](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf#page=76)
 
-- PINGALA
+# PINGALA
   - 2 October 2022
