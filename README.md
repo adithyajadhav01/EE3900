@@ -23,3 +23,6 @@ Instructor: Dr. G. V. V. Sharma (https://github.com/gadepall)
 
 # PINGALA
   - 2 October 2022
+  
+# CIRCUITS
+  - 13 October 2022
