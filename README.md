@@ -28,7 +28,7 @@ Instructor: Dr. G. V. V. Sharma (https://github.com/gadepall)
   - 13 October 2022
   
 # FOURIER
-  - 20 October 2022
+  - 25 October 2022
   
   
  
