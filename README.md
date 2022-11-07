@@ -29,6 +29,10 @@ Instructor: Dr. G. V. V. Sharma (https://github.com/gadepall)
   
 # FOURIER
   - 25 October 2022
+ 
+# CHARGER LAB
+  - 5 November 2022
+  
   
   
  
