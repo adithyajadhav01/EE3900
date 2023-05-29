@@ -11,15 +11,15 @@ Instructor: Dr. G. V. V. Sharma (https://github.com/gadepall)
 # Sound Assignment (Filters)
 - 18 August 2022
 
-### Practice Questions
+  - Practice Questions
   
-  - Assignment_1 of Filter
-    - 20 August 2022
-    - [Oppenheim Problem 3.12.c](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf#page=130)
+    - Assignment_1 of Filter
+      - 20 August 2022
+      - [Oppenheim Problem 3.12.c](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf#page=130)
    
-  - Assignment_2 of Filter
-    - 20 September 2022
-    - [Oppenheim Problem 2.21.c](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf#page=76)
+    - Assignment_2 of Filter
+      - 20 September 2022
+      - [Oppenheim Problem 2.21.c](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf#page=76)
 
 # PINGALA
   - 2 October 2022
